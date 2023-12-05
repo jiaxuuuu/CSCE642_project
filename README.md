@@ -8,7 +8,7 @@ Minguk Kim, Ph.D. Student, Dept. of Construction Science, Texas A&M University, 
 Jia Xu, Ph.D. Student, Dept. of Construction Science, Texas A&M University, College Station, TX 77843 USA, UIN: 334002354, EMAIL: jiaxu@tamu.edu
 
 ## Human record collection
-Please note that all the relevant files mentioned in this section are located in the `Experiment` folder. The Unity package named `ConstructionSite.unitypackage` is used in this section.
+The Unity package named `ConstructionSite.unitypackage` is used in this section. This file is uploaded to google drive, please find the link: https://drive.google.com/file/d/1-pG-omwbOjH-8I84AoBgTpuEny5LSNTt/view?usp=sharing
 
 ### Unity3D project set up
 1. **Unity Editor**: Unity Editor installed (`2022.3.7f1`) was used in this project.
